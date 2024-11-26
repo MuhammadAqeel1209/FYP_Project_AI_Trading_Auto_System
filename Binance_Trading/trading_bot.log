@@ -1,0 +1,240 @@
+2024-11-23 13:19:51,991 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:19:55,580 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:19:59,161 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:20:02,744 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:20:06,325 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:20:09,907 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:20:13,496 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:22:32,657 - Websocket connected
+2024-11-23 13:22:34,735 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:22:36,851 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:22:38,703 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:22:40,951 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:22:42,998 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:22:45,048 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:22:47,198 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:22:49,253 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:22:51,299 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:22:53,751 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:22:55,802 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:22:57,949 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:22:59,895 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:23:01,640 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:23:03,887 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:23:05,827 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:23:07,871 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:23:09,832 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:23:11,872 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:23:13,826 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 13:23:15,663 - Error Occurred: 
+2024-11-23 13:23:15,971 - tearing down on exception 
+2024-11-23 14:52:39,356 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:52:42,943 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:52:46,517 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:52:49,939 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:52:53,483 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:52:56,968 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:53:00,535 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:53:04,129 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:53:07,722 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:53:11,160 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:53:14,680 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:53:18,272 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:53:21,755 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:53:25,222 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:53:28,650 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:53:32,090 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:53:35,519 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:54:00,634 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:55:05,854 - This is an informational message.
+2024-11-23 14:55:07,319 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:55:10,804 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:55:14,391 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:55:17,821 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:55:21,351 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:55:24,829 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:55:28,318 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:55:31,787 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:55:35,280 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:55:38,861 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:56:43,408 - This is an informational message.
+2024-11-23 14:56:45,009 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:56:48,490 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:56:52,069 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:56:55,726 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:56:59,149 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:02,696 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:06,201 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:09,784 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:13,607 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 14:57:17,156 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:20,740 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:24,306 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:27,806 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:31,236 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:34,770 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:38,199 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:41,738 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:45,214 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:48,750 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:52,241 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:55,746 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:57:59,454 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:58:36,799 - This is an informational message.
+2024-11-23 14:58:40,624 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:58:44,100 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:58:47,570 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:58:51,061 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:58:54,549 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:58:58,126 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:59:01,606 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:59:05,088 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:59:08,647 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 14:59:12,253 - Binance API Exception while placing sell order for BTCUSDT: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:21:57,483 - Websocket connected
+2024-11-23 15:21:59,211 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:01,550 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:01,861 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:04,042 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:05,568 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:07,698 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:09,669 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:11,815 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:13,984 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:16,106 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:18,356 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:21,111 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:23,359 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:25,311 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:27,662 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:29,915 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:31,770 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:33,911 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:35,857 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:38,141 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:40,763 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:42,711 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:45,084 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:47,329 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:49,586 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:51,627 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:53,686 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:56,234 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:22:58,383 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:23:00,527 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:23:01,557 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:23:04,010 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:23:06,177 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:23:08,782 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:23:10,474 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:23:12,720 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:23:14,658 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:23:16,825 - Binance API Exception: APIError(code=-1021): Timestamp for this request was 1000ms ahead of the server's time.
+2024-11-23 15:23:18,857 - Error Occurred: 
+2024-11-23 15:23:19,066 - tearing down on exception 
+2024-11-23 23:49:44,675 - Websocket connected
+2024-11-23 23:49:45,361 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:49:47,446 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:49:49,465 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:49:51,541 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:49:53,992 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:49:55,940 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:49:58,290 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:00,356 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:02,686 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:04,746 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:07,198 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:09,351 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:11,500 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:13,447 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:15,594 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:17,562 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:19,895 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:21,846 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:24,201 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:26,262 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:28,503 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:30,659 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:33,205 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:35,056 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:37,206 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:39,354 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:50:41,296 - Error Occurred: 
+2024-11-23 23:50:41,501 - tearing down on exception 
+2024-11-23 23:51:03,725 - Websocket connected
+2024-11-23 23:51:04,443 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:06,822 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:08,767 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:10,789 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:12,736 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:15,095 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:17,338 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:19,702 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:21,756 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:23,805 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:25,771 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:27,899 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:30,044 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:32,092 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:34,558 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:37,005 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:39,069 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:41,778 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:43,870 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:46,002 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:47,992 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:50,860 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:53,076 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-23 23:51:55,265 - Error Occurred: 
+2024-11-23 23:51:55,539 - tearing down on exception 
+2024-11-23 23:52:00,667 - Websocket connected
+2024-11-23 23:52:02,703 - Error Occurred: 
+2024-11-23 23:52:03,010 - tearing down on exception 
+2024-11-24 15:12:16,952 - Websocket connected
+2024-11-24 15:12:17,768 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:19,618 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:21,824 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:24,320 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:26,371 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:28,378 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:30,488 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:33,155 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:35,743 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:37,751 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:39,692 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:41,747 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:44,092 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:46,356 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:48,594 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:50,654 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:52,690 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:54,751 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:56,791 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:12:58,840 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:13:00,171 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:13:02,315 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:13:04,465 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-24 15:13:06,205 - Error Occurred: 
+2024-11-24 15:13:06,411 - tearing down on exception 
+2024-11-25 20:23:39,046 - Websocket connected
+2024-11-25 20:23:40,028 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:23:42,055 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:23:44,055 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:23:46,417 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:23:48,416 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:23:50,521 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:23:52,580 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:23:54,718 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:23:57,169 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:23:59,110 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:24:01,165 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:24:03,282 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:24:05,668 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:24:07,814 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:24:09,766 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:24:11,823 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:24:13,870 - Binance API Exception: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
+2024-11-25 20:24:15,724 - Error Occurred: 
+2024-11-25 20:24:15,926 - tearing down on exception 
+2024-11-25 20:25:26,934 - This is an informational message.
+2024-11-25 20:25:28,204 - Binance API Exception while placing buy order for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action.
